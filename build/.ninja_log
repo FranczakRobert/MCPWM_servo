@@ -1289,3 +1289,13 @@
 8	66	1664548962307248018	/Users/robertfranczak/Desktop/myServo/build/bootloader/bootloader.map	53dfbb141f4eeb84
 66	6339	0	CMakeFiles/flash	a4373f974cba8419
 66	6339	0	/Users/robertfranczak/Desktop/myServo/build/CMakeFiles/flash	a4373f974cba8419
+9	36	0	esp-idf/esptool_py/CMakeFiles/app_check_size	371c10010b7b149d
+9	36	0	/Users/robertfranczak/Desktop/myServo/build/esp-idf/esptool_py/CMakeFiles/app_check_size	371c10010b7b149d
+9	68	1664548962307248018	bootloader-prefix/src/bootloader-stamp/bootloader-build	53dfbb141f4eeb84
+9	68	1664548962307248018	bootloader/bootloader.elf	53dfbb141f4eeb84
+9	68	1664548962307248018	bootloader/bootloader.bin	53dfbb141f4eeb84
+9	68	1664548962307248018	bootloader/bootloader.map	53dfbb141f4eeb84
+9	68	1664548962307248018	/Users/robertfranczak/Desktop/myServo/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	53dfbb141f4eeb84
+9	68	1664548962307248018	/Users/robertfranczak/Desktop/myServo/build/bootloader/bootloader.elf	53dfbb141f4eeb84
+9	68	1664548962307248018	/Users/robertfranczak/Desktop/myServo/build/bootloader/bootloader.bin	53dfbb141f4eeb84
+9	68	1664548962307248018	/Users/robertfranczak/Desktop/myServo/build/bootloader/bootloader.map	53dfbb141f4eeb84
